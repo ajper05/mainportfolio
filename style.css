@@ -1,0 +1,52 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-brand{
+    padding: 0;
+    margin:0;
+    border: 0;
+    height: 80px;
+    width: 80px;
+}
+
+
+.col,
+   [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+
+.navbar{
+    background-color: lightslategray;
+}
+
+#summaryBox{
+    margin: 0px;
+    padding: 100px;
+    font-size: large;
+    border: 100px;
+    border-radius: 25px;
+    background-color: lightslategray
+    ;
+}
+
+body{
+    background-image: url(https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/10158974_web1_L1WallaceFalls-EDH-180119.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img-thumbnail{
+    border: 0px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+h1{
+    justify-content: center;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
