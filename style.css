@@ -11,36 +11,20 @@
 }
 
 
-.col,
-   [class*="col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
-
-
 .navbar{
     background-color: lightslategray;
 }
 
-#summaryBox{
-    margin: 0px;
-    padding: 100px;
-    font-size: large;
-    border: 100px;
+p{
+    padding: 25px;
     border-radius: 25px;
-    background-color: lightslategray
+    background-color: lightslategray;
     ;
 }
 
 body{
     background-image: url(https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/10158974_web1_L1WallaceFalls-EDH-180119.jpg);
-    background-size: 100%;
     background-repeat: no-repeat;
-}
-
-.img-thumbnail{
-    max-width: 300px;
-    max-height: 300px;
 }
 
 h1{
