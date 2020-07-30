@@ -1,5 +1,6 @@
 *{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
 }
 
 .navbar-brand{
@@ -19,7 +20,7 @@ p{
     padding: 25px;
     border-radius: 25px;
     background-color: lightslategray;
-    ;
+    font-size: 20px;
 }
 
 body{
@@ -29,7 +30,34 @@ body{
 
 h1{
     justify-content: center;
-    color:white;
+    color:whitesmoke;
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
+}
+
+.card{
+    margin:25px;
+    background-color: rgba(207, 164, 84, 0.692);
+
+}
+
+.card-text{
+    background-color: transparent;
+}
+
+.container{
+    background-color: lightslategray;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+
+#h1Under{
+    padding:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.btn{
+    background-color: rgb(16, 25, 105);
+    border-color: rgb(16, 25, 105); ;
 }
